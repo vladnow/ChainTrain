@@ -1,0 +1,13 @@
+.gradle/
+build/
+dist/
+verification/runtime/
+verification/runtime-ordinary/
+verification/classes/
+verification/classes-*/
+verification/results/
+
+.tools/
+publication/
+verification/api-decompile.txt
+*.log
